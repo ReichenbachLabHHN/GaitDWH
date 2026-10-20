@@ -1,0 +1,15 @@
+id,modality,model,sensor_type,internal_coordinate_system,rotation_to_standard_coordinate_system,description
+1,0,MPU9250,0,0,"[[1,0,0],[0,1,0],[0,0,1]]",HuGaDB - Accelerometer
+2,1,MPU9250,0,0,"[[1,0,0],[0,1,0],[0,0,1]]",HuGaDB - Gyroscope
+3,2,,2,,,HuGaDB - EMG
+4,0,HTC Nexus One,1,0,"[[1,0,0],[0,1,0],[0,0,1]]",McGill - Accelerometer
+5,3,HTC Nexus One,1,0,"[[1,0,0],[0,1,0],[0,0,1]]",McGill - Magnetometer
+6,0,iPhone 6S (InvenSense MP67B),1,2,"[[1,0,0],[0,0,1],[0,1,0]]",Vajdi - Accelerometer
+7,1,iPhone 6S (InvenSense MP67B),1,2,"[[1,0,0],[0,0,1],[0,1,0]]",Vajdi - Gyroscope
+8,0,IMUZ,0,0,"[[1,0,0],[0,1,0],[0,0,1]]",OU-ISIR 1+2+SAID - Inertial Sensor Accelerometer
+9,1,IMUZ,0,0,"[[1,0,0],[0,1,0],[0,0,1]]",OU-ISIR 1+2+SAID - Inertial Sensor Gyroscope
+10,0,Motorola ME860,1,1,"[[0,-1,0],[1,0,0],[0,0,1]]",OU-ISIR SAID - Smartphone
+11,0,"MTw Awinda, Xsens, Enschede, Netherlands",0,1,"[[0,-1,0],[1,0,0],[0,0,1]]",A database of human gait - Accelerometer
+12,1,"MTw Awinda, Xsens, Enschede, Netherlands",0,1,"[[0,-1,0],[1,0,0],[0,0,1]]",A database of human gait - Gyroscope
+13,3,"MTw Awinda, Xsens, Enschede, Netherlands",0,1,"[[0,-1,0],[1,0,0],[0,0,1]]",A database of human gait - Magnetometer
+14,0,Shimmer3,0,0,"[[1,0,0],[0,1,0],[0,0,1]]",MAREA - Accelerometer

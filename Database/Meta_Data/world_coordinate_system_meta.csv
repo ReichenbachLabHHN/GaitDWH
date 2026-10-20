@@ -1,0 +1,15 @@
+id,alignment,rotation_to_world_coordinate_system,instances
+1,0,"[[0,1,0],[1,0,0],[0,0,-1]]",HuGaDB - Other, OU-ISIR 2 - Center Back (Smartphone), A Database For Human Gait - Center Back
+2,1,"[[0,1,0],[0,0,-1],[-1,0,0]]",HuGaDB - Feet
+3,2,"[[1,0,0],[0,-1,0],[0,0,-1]]",McGill - Front Pockets
+4,3,"[[-1,0,0],[0,-1,0],[0,0,1]]",McGill - Back Pocket, MAREA waist front center
+5,4,"[[0,-1,0],[0,0,-1],[-1,0,0]]",Vajdi - Right Waist
+6,5,"[[1,0,0],[0,0,-1],[0,-1,0]]",Vajdi - Left Front Pocket
+7,6,"[[0,0,1],[0,1,0],[-1,0,0]]",OU-ISIR 2+SAID- Inertial Right Waist
+8,7,"[[-1,0,0],[0,1,0],[0,0,-1]]",OU-ISIR 1+2+SAID - Inertial Center Back
+9,8,"[[0,0,-1],[0,1,0],[1,0,0]]",OU-ISIR 2+SAID - Inertial Left Waist
+10,9,"[[0,-1,0],[1,0,0],[0,0,1]]",A Database For Human Gait - Thigh and Shin
+11,10,"[[0,0,-1],[1,0,0],[0,-1,0]]",A Database For Human Gait - Left Wrist
+12,11,"[[0,0,1],[0,-1,0],[1,0,0]]","MAREA - Right Wrist, Right Ankle"
+13,12,"[[0,0,-1],[0,-1,0],[-1,0,0]]",MAREA - Left Ankle
+
